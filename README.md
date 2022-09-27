@@ -1,2 +1,2 @@
 # C-exercises-
-C exercises performed at school (IFSC)
+This repository is directed to C exercises performed at school (IFSC)
